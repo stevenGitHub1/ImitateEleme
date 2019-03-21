@@ -21,6 +21,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    NSLog(@"I am chenzilong, i am trying change this branch in develop either");
 }
 
 /*
