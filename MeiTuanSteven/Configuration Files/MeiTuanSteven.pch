@@ -1,0 +1,26 @@
+//
+//  MeiTuanSteven.pch
+//  MeiTuanSteven
+//
+//  Created by 陈子龙 on 2019/2/24.
+//  Copyright © 2019 陈子龙. All rights reserved.
+//
+
+#ifndef MeiTuanSteven_pch
+#define MeiTuanSteven_pch
+
+#ifdef __OBJC__
+
+#import "Constants.h"
+#import "Macro.h"
+
+#define MAS_SHORTHAND_GLOBALS
+#import <Masonry.h>
+#import "UILabel+HLFactory.h"
+#import "UIButton+HLFactory.h"
+
+#endif
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* MeiTuanSteven_pch */
