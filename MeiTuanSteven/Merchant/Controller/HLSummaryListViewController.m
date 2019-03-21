@@ -24,6 +24,8 @@
     NSLog(@"dev_steve");
     
     NSLog(@"Hi , chenzilong here");
+    
+    NSLog(@"I am steve, i am trying change this branch in develop mode");
 }
 
 @end
