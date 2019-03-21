@@ -21,6 +21,7 @@
     [super viewDidLoad];
     
     NSLog(@"just source tree test");
+    NSLog(@"dev_steve");
 }
 
 @end
