@@ -20,6 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    NSLog(@"just source tree test");
 }
 
 @end
