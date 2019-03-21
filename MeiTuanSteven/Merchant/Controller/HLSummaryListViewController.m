@@ -22,6 +22,8 @@
     
     NSLog(@"just source tree test");
     NSLog(@"dev_steve");
+    
+    NSLog(@"Hi , chenzilong here");
 }
 
 @end
