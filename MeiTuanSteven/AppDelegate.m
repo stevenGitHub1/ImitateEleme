@@ -18,6 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     [self _setupWindow];
+    NSLog(@"make branch from dev test");
 //    NSArray *arr = @[@"1"];
 //    NSMutableArray *mutArr = [NSMutableArray arrayWithCapacity:0];
 //    for (NSInteger i = 0; i < 3; i ++) {
