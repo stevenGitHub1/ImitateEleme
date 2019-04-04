@@ -20,6 +20,7 @@
     [self _setupWindow];
     NSLog(@"make branch from dev test");
     NSLog(@"dev change");
+    NSLog(@"this is branch_1 add code");
 //    NSArray *arr = @[@"1"];
 //    NSMutableArray *mutArr = [NSMutableArray arrayWithCapacity:0];
 //    for (NSInteger i = 0; i < 3; i ++) {
