@@ -25,6 +25,8 @@
     // Do any additional setup after loading the view.
     NSLog(@"change_dev_tmp");
     NSLog(@"this is branch_2 add code");
+    
+    NSLog(@"this for push without rebase in branch_2");
 }
 
 @end
