@@ -18,18 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     [self _setupWindow];
-//    NSArray *arr = @[@"1"];
-//    NSMutableArray *mutArr = [NSMutableArray arrayWithCapacity:0];
-//    for (NSInteger i = 0; i < 3; i ++) {
-//        [mutArr addObject:arr];
-//    }
-//    
-//    NSLog(@"%p, %p", arr[0], mutArr[2][0]);
-//    thist master log for conflict
-//    conflict
-//    2222222222
-//    3333333333
-//    1111111111
+    // master change
     return YES;
 }
 
