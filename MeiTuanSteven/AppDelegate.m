@@ -18,13 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     [self _setupWindow];
-//    sdljfisldjfisldjfs
-//    sdoifjsdijfosdijf
-//    sdoiifjsf
-//    srjeirjffg
-//    09944
-//    99w75t900934
-//    slkdnckjsnvkjfbv
+//    delete all the annotations
     return YES;
 }
 
