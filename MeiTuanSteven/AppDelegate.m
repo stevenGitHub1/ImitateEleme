@@ -18,13 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     [self _setupWindow];
-    // master change
-//     skljknkjsdn
-//    lwendkjn
-//    oiwejdnjkwenfj,ewnfg
-//    lskdnfkjsdf
-//    lsdkflksdfjkdjglj
-//    1234225
+//    merge tool test
     return YES;
 }
 
