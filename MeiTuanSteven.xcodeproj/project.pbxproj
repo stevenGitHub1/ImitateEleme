@@ -618,7 +618,7 @@
 				DEVELOPMENT_TEAM = GLTKUPEJKN;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/MeiTuanSteven/Configuration Files/MeiTuanSteven.pch";
-				INFOPLIST_FILE = "/Users/chenzilong/Desktop/Imitation/2019_2/MeiTuanSteven/MeiTuanSteven/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MeiTuanSteven/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.HaiLiang-Workspace.MeiTuanSteven";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -636,7 +636,7 @@
 				DEVELOPMENT_TEAM = GLTKUPEJKN;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/MeiTuanSteven/Configuration Files/MeiTuanSteven.pch";
-				INFOPLIST_FILE = "/Users/chenzilong/Desktop/Imitation/2019_2/MeiTuanSteven/MeiTuanSteven/Supporting Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/MeiTuanSteven/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.HaiLiang-Workspace.MeiTuanSteven";
 				PRODUCT_NAME = "$(TARGET_NAME)";
